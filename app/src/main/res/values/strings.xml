@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SuperFit</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Sport</string>
+    <string name="title_dashboard">Plan</string>
+    <string name="title_notifications">My</string>
+</resources>
